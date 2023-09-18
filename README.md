@@ -1,4 +1,4 @@
-# 3D Product Configurator:trollface:! 
+# 3D Product Configurator! :trollface:
 
 
 
