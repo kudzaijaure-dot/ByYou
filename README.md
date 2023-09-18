@@ -6,7 +6,9 @@ Introducing Zimbabwes first no-cost, locally built 3D product configurator for a
 
 Making use of the latest web technologies such as three.js and Vite, this is a responsive, fluid and easy to use configurator, completely customizable from lighting, to presets, to interactability, to logo positioning and more. 
 
-##What it looks like for now: 
+## What it looks like for now: 
+<img width="1280" alt="Screen Shot 2023-09-18 at 10 10 07" src="https://github.com/kudzaijaure-dot/GutuTich/assets/55686042/89bf56b2-b6bf-4684-8911-9877e736ca96">
+
 <img width="1280" alt="Screen Shot 2023-09-18 at 10 10 25" src="https://github.com/kudzaijaure-dot/GutuTich/assets/55686042/d6c5b449-41cd-4ebf-8877-a7345e0ac890">
 
 > Want to implement this system for your business :question: it is completely customizable depending on your budget. I will find the 3D models of whatever your product is or, with a professional photographer, I can make one from scratch.
