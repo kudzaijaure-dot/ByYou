@@ -1,6 +1,6 @@
-# 3D Product Configurator! 
+# 3D Product Configurator:trollface:! 
 
-:trollface::
+
 
 Introducing Zimbabwes first no-cost, locally built 3D product configurator for apparel, built for Gutu Tich by Kudzai Richard Jaure. 
 
