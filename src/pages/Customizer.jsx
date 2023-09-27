@@ -43,7 +43,26 @@ const generateTabContent = () => {
 };
 
 const handleDecals = (type, result) => {
-   
+  const decalType  = DecalTypes[type];
+
+  state[decalType.stateProperty] = result;
+
+  if(!activeFilterTab[decalType.filterTab]){
+    handleActiveFilterTab(decalType.filterTab)
+  }
+}
+
+const handleActiveFilterTab = (tabName) => {
+  switch(tabName) {
+    case "logoShirt":
+      state.isLogoTexture = !activeFilterTab[tabName];
+      break;
+    case "stylishShirt":
+      state.isFullTexture = !activeFilterTab[tabName];
+      break;
+    default:
+      break;
+  }
 }
 
 const readFile = (type) => {
