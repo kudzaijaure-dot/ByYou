@@ -3,7 +3,7 @@
 
 
 Why pay thousands of dollars for Expivi, Threekit or SalesForce to give your customers the best experience? (monthly fees) 
-Introducing Zimbabwes first no-cost, locally built 3D product configurator for apparel, built for Gutu Tich by Kudzai Richard Jaure. 
+Introducing Zimbabwes first no-cost, locally built [3D product configurator](https://651fd2e7e5a0280431d83841--dynamic-biscochitos-8fab85.netlify.app/) for apparel, built as a project done for Gutu Tich by Kudzai Richard Jaure. 
 
 ## Demo Verison Out Now, and Free 😄!
 
