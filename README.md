@@ -11,7 +11,7 @@ Check out the demo of this project for free now, and let your imagination run wi
 
 Making use of the latest web technologies such as three.js and Vite, this is a responsive, fluid and easy to use configurator, completely customizable from lighting, to presets, to interactability, to logo positioning and more. 
 
-## What it looks like 😬:
+## What it looks like :
 
 ![Screenshot (9)](https://github.com/kudzaijaure-dot/ByYou/assets/55686042/3f73b1ed-a2bf-41b6-8e77-d8f3de1e0242)
 
